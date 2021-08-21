@@ -1,0 +1,10 @@
+POST http://localhost:7000/api/mate-engine
+Content-Type: application/json
+
+{
+  "name": "santiago",
+  "age": "18",
+  "country:": "colombia"
+}
+
+###
